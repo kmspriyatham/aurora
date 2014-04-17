@@ -1,4 +1,4 @@
-aurora
+Aurora
 ======
 
 CAS in Haskell
