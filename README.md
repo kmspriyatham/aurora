@@ -1,4 +1,4 @@
 Aurora
 ======
 
-CAS in Haskell
+Defines a bunch of functions implemented in Haskell for Natural Lanugage Processing.
